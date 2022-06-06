@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/puertah.unity
+    guid: 10757f72ea56bea4d9de5d9bf099d2f2
+  - enabled: 1
+    path: Assets/Scenes/sala de espera.unity
+    guid: 76309a3897e3aa442a78429b2ea510df
+  - enabled: 1
+    path: Assets/Scenes/labb.unity
+    guid: 2a6b924208bdbff4d8bbc189c65c82bf
+  - enabled: 1
+    path: Assets/Scenes/francis habla.unity
+    guid: 5cf5afc6e9dff5840a022d64b5c813bc
+  - enabled: 1
+    path: Assets/Scenes/bot habla.unity
+    guid: f138eda16d2de1e47a0e33d9fccc4b2b
+  - enabled: 1
+    path: Assets/Scenes/lab medio.unity
+    guid: 30d1d980142c00343a6a2aacea66edea
+  - enabled: 1
+    path: Assets/Scenes/microscopio.unity
+    guid: 2dbc286a44a8fe84aa9c72fb6d3a5436
+  - enabled: 1
+    path: Assets/Scenes/multchoicePat.unity
+    guid: 2f1aed4457a371a488c9cec2b8085a61
+  - enabled: 1
+    path: Assets/Scenes/incorrecto.unity
+    guid: fd3d1e9056d38b145b8ad4e1a3b73fd6
+  - enabled: 1
+    path: Assets/Scenes/correcto.unity
+    guid: a1f34e90dc5a48b4ab38b313a8dfd61d
+  - enabled: 1
+    path: Assets/Scenes/BOTI.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Perdiste.unity
+    guid: 09b8415d95ac2d14b8216d83824a2f5f
+  - enabled: 1
+    path: Assets/Scenes/Ganaste.unity
+    guid: b210ebfe0eeff594c80f9e76257191cb
+  - enabled: 1
+    path: Assets/Scenes/Lab derecho 3.unity
+    guid: 92a2a767f93a55a40b7d6b7bfab433b5
+  - enabled: 1
+    path: Assets/Scenes/muertefrancis.unity
+    guid: f6d80621c2c508b4d8928df79b19948b
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: 42f2a997e3f02c246bc938d45808a212
+  - enabled: 1
+    path: Assets/Scenes/sangre.unity
+    guid: 428a097411279724ca8f87e18698922e
+  m_configObjects: {}

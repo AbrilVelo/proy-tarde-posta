@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 374e048f822f6ef4197b755191575dc3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TextBox: {instanceID: 0}
+  - Choice01: {fileID: 1587903476654428, guid: 6d1462800e3d36d438079be181b8b390, type: 3}
+  - Choice02: {fileID: 1501423468136644, guid: 06282fd515292b74ca1746e2476a33d3, type: 3}
+  - Choice03: {fileID: 1963732734679196, guid: c8985566d6660704c992ae0fd2312643, type: 3}
+  - Choice04: {fileID: 1437663265115548, guid: 1f9ac3c12d139fa4099a976e6ce8a6f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
