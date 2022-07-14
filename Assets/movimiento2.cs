@@ -27,7 +27,7 @@ public class movimiento2 : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.D))
         {
             buttonPressed = RIGHT;
             transform.position += transform.right * (Time.deltaTime * 5);
@@ -35,7 +35,7 @@ public class movimiento2 : MonoBehaviour
             animator.SetBool("caminando", true);
 
         }
-        else if (Input.GetKey(KeyCode.LeftArrow))
+        else if (Input.GetKey(KeyCode.A))
         {
             buttonPressed = LEFT;
             transform.position -= transform.right * (Time.deltaTime * 5);

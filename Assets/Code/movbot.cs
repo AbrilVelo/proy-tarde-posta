@@ -29,12 +29,12 @@ public class movbot : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(KeyCode.W))
         {
             buttonPressed = UP;
             transform.position += transform.up * (Time.deltaTime * 5);
         }
-        else if (Input.GetKey(KeyCode.DownArrow))
+        else if (Input.GetKey(KeyCode.S))
         {
             buttonPressed = DOWN;
             transform.position -= transform.up * (Time.deltaTime * 5);
